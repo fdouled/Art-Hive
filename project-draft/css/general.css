@@ -1,0 +1,551 @@
+/* BASIC -------------------------------------------------------------------- */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(169, 196, 127); /*light green*/
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  display: block;
+  height: 100%;
+}
+
+.light {
+color: rgb(255, 249, 236);
+}
+
+/* HEADER -----------------------------------------------------------------*/
+
+body > header {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  background-color: rgb(95, 141, 78);
+  padding: 0 1rem 0 1rem;
+  height: 4rem;
+}
+
+#nav-icon {
+  margin-top: .8rem;
+  width: 2.2rem;
+  height: 2.2rem;
+  border: solid;
+  border-radius: 10px;
+  padding: 0.3rem;
+  border-color: rgb(255, 249, 236);
+}
+
+#hamburger-menu a {
+  color: rgb(255, 249, 236);
+  font-size: 2.5rem;
+  height: .8rem;
+}
+
+#hamburger-menu a:active {
+  color: #285430;
+}
+
+h1 {
+  font-family: 'Unbounded', cursive;
+  /* color: rgb(229, 229, 203); */
+  color: rgb(255, 249, 236);
+  margin-top: .7rem;
+}
+
+.brand-font {
+  font-family: 'Unbounded', cursive;
+}
+
+/* NAV BAR ------------------------------------------------------------------ */
+
+nav {
+  display: block;
+}
+
+nav > ul {
+  background-color: #285430;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  border-width: 2px 0 2px 0;
+  border-style: solid;
+  border-color: rgb(255, 249, 236);
+}
+
+nav li {
+  border-bottom: 2px solid rgb(255, 249, 236);
+}
+
+nav li:last-child {
+  border-bottom: none;
+}
+
+nav a {
+  display: block;
+  text-align: center;
+  padding: 1rem;
+  color: rgb(255, 249, 236);
+  text-decoration: none; /*gets rid of underline*/
+}
+
+nav a:active {
+  background-color:rgb(95, 141, 78);
+}
+
+.current-page {
+  color: rgb(163, 203, 100);
+}
+
+/* INTRODUCTION --------------------------------------------------------------*/
+
+#introduction p {
+  color: rgb(26, 18, 11); /*dark dark brown*/
+  margin: 0 1rem 1rem 1rem;
+}
+
+#introduction {
+  margin: 1.7rem;
+}
+
+h2 {
+  color: rgb(95, 141, 78); /*green*/
+  font-family: 'Unbounded', cursive;
+  margin: 1rem 0;
+}
+
+.highlight {
+  background-color: rgb(255, 249, 236);
+}
+
+/* GALLERY ------------------------------------------------------------------ */
+
+#gallery-card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(95, 141, 78);
+  padding: 1.7rem;
+}
+
+.gallery-card {
+  background-color: rgb(255, 249, 236);
+  margin: 1.7rem 1.7rem 0 1.7rem;
+  width: 100%;
+  padding: 1.7rem 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  border-radius: 0 23px 0 23px;
+  max-width: 30rem;
+  min-width: 15rem;
+  box-shadow: 3px 3px 3px 0 rgb(26, 18, 11);
+}
+
+.gallery-card-title {
+  font-family: 'Unbounded', cursive;
+  color:rgb(26, 18, 11);
+  text-align: center;
+  padding: 1rem 0 0 0;
+  margin: 0 1rem 0 1rem;
+  text-decoration: underline;
+  font-size: 2rem;
+}
+
+.gallery-card-artist {
+  text-align: center;
+  padding: .4rem 0 0 0;
+  margin: 0 1rem 0 1rem;
+  color: rgb(95, 141, 78);
+}
+
+.gallery-card img {
+  width: 80%;
+  padding: .5rem;
+  background-color:rgb(229, 229, 203);
+  border: 1px solid rgb(26, 18, 11);
+  border-radius: 3px;
+  box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+  margin-bottom: 1rem;
+}
+
+/* PROFILE ------------------------------------------------------------------ */
+
+#photo-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(169, 196, 127);
+  width: 100%;
+}
+
+.dark-green-background {
+  background-color: rgb(95, 141, 78);
+}
+
+.user-info {
+  background-color: rgb(255, 249, 236);
+  width: 100%;
+  border-style: solid;
+  border-width: 20px 0 20px 0;
+  border-color:#285430;
+}
+
+.user-info h2 {
+  text-align: center;
+  border-radius: 22px;
+  border-style: solid;
+  border-color: rgb(95, 141, 78);
+  padding: 1rem 0;
+  margin: 1rem 2rem 0 2rem;
+}
+
+#contact-info {
+  list-style-type: none;
+}
+
+#photo {
+  margin-bottom: 1.7rem;
+}
+
+#saved-art{
+  background-color: rgb(95, 141, 78);
+  padding: 0 2rem 1rem 2rem;
+}
+
+.saved-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.saved-artwork {
+  width: 40%;
+  max-width: 20rem;
+  min-width: 17rem;
+  margin: 0 .5rem 1rem .5rem;
+  border-radius: 15px 0 15px 0;
+  border: 2px solid rgb(255, 249, 236);
+  box-shadow: -5px -5px 0 0 rgb(163, 203, 100),
+  5px 5px 0 0 rgb(26, 18, 11);
+}
+
+#saved-art h2 {
+  margin: 1rem 0 2rem 0;
+  padding: 1rem 0;
+  color:rgb(255, 249, 236);
+  text-align: center;
+  border-radius: 22px;
+  border-style: solid;
+  border-color:rgb(255, 249, 236);
+}
+
+/* SEARCH ART------------------------------------------------------------------- */
+
+input[type=text] {
+  width: 150px;
+  -webkit-transition: width 0.5s ease-in-out;
+  transition: width 0.5s ease-in-out;
+}
+
+/* When the input field gets focus, change its width to 80% */
+input[type=text]:focus {
+  width: 80%;
+}
+
+main.main-filter {
+  margin: 0;
+  height: 40rem;
+  background-color:rgb(255, 249, 236)
+}
+
+.filter {
+  margin-top: 0;
+  background-color: rgb(255, 249, 236);
+  text-align: center;
+  display: block;
+}
+
+#medium-container button {
+  background-color: rgb(146, 213, 122); /* Green */
+  border: none;
+  color: rgb(84, 125, 69);
+  padding: .5rem .7rem 1.6rem .7rem;
+  height: 2rem;
+  border-radius: 15px;
+  text-align: center;
+  text-decoration: none;
+  margin: .2rem .2rem;
+  font-family: 'Unbounded', cursive;
+}
+
+#medium-container button:hover {
+  background-color: rgba(149, 225, 121, 0.614);
+  color: rgb(84, 125, 69);
+}
+
+#medium-container,
+#seller-container {
+  display: inline-flex;
+  width: 100%;
+  min-width: 17rem;
+  max-height: 15rem;
+  min-height: 7rem;
+  flex-wrap: wrap;
+  padding: 1.7rem 1.7rem 0rem 1.7rem;
+  justify-content: flex-start;
+  text-align: center;
+}
+
+#filtered-art,
+#filtered-artists {
+  height: 30rem;
+  margin: 1rem 1.7rem;
+  border-radius: 15px;
+  display: block;
+}
+
+#filtered-art {
+  background-color: rgb(169, 196, 127); /*light green*/
+}
+
+/* SELLER --------------------------------------------------------------------- */
+
+
+#seller-container button {
+  background-color: rgb(255, 208, 66);
+  border: none;
+  color: rgb(143, 98, 21);
+  padding: .5rem .7rem 1.6rem .7rem;
+  height: 2rem;
+  border-radius: 15px;
+  text-align: center;
+  text-decoration: none;
+  margin: .2rem .2rem;
+  font-family: 'Unbounded', cursive;
+}
+
+#button-container button:hover {
+  background-color: rgb(255, 218, 107);
+  color: rgb(143, 98, 21);
+}
+
+#filtered-artists {
+  background-color: rgb(255, 226, 140);
+}
+
+.filter-title {
+  margin: 0;
+  padding: 1.7rem 0 0 0;
+  text-align: center;
+}
+
+.artist {
+  color: rgb(241, 190, 39);
+}
+
+.art {
+  color: rgb(125, 182, 104);
+}
+
+.line-artist {
+  text-decoration: underline;
+  color: rgb(215, 161, 0);
+}
+
+.line-art {
+  text-decoration: underline;
+  color: rgb(103, 152, 85);
+}
+
+/* FOOTER -------------------------------------------------------------------- */
+footer,
+footer h1 {
+  background-color: #285430;
+  margin: -1rem 0;
+}
+
+footer {
+  color:rgba(255, 249, 236, 0.497);
+}
+
+footer h1 {
+  text-align: center;
+  padding-top: 2rem;
+  color:rgba(255, 249, 236, 0.256);
+}
+
+.footer-desc {
+  margin: 2rem 3.5rem 0 4rem;
+  padding-bottom: 2rem;
+  display: flex;
+  justify-content: flex-start;
+  align-content: flex-start;
+  flex-direction: column;
+}
+
+section.footer-desc p {
+  display: block;
+  font-size: .8rem;
+}
+
+/* SECOND MEDIA QUERY --------------------------------------------------------*/
+
+@media (min-width: 768px) {
+  #hamburger-menu {
+    display: none;
+  }
+
+  nav > ul {
+    display: flex;
+    border: none;
+  }
+
+  nav li {
+    border: none;
+  }
+
+  .current-tab-light {
+    border-bottom: 2px solid rgb(255, 249, 236);
+  }
+
+  nav li:last-child.current-tab-light {
+    border-bottom: 2px solid rgb(255, 249, 236);
+  }
+
+  #gallery-card-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    padding: 1.7rem;
+    padding-bottom: 4.4rem;
+  }
+
+  .gallery-card {
+    max-width: 18rem;
+    min-width: 12rem;
+  }
+
+  #profile-section section.gallery-card {
+    box-shadow: 3px 3px 7px 0 rgba(26, 18, 11, 0.375);
+    border: 3px solid #285430;
+  }
+
+  #photo-info {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(169, 196, 127);
+    width: 100%;
+  }
+
+  .user-info {
+    border-width: 3px;
+    border-radius: 15px;
+    margin-right: 1.7rem;
+    box-shadow: 3px 3px 7px 0 rgba(26, 18, 11, 0.375);
+  }
+
+  .saved-artwork {
+    max-width: 12rem;
+    min-width: 12rem;
+    margin: 0 .5rem 1rem .5rem;
+    box-shadow: 5px 5px 0 0 rgb(26, 18, 11);
+  }
+
+  #saved-art {
+    padding: 1.7rem 2rem 2.7rem 2rem;
+  }
+
+  #saved-art > h2 {
+    background-color: #285430;
+  }
+
+  .footer-desc {
+    margin: 2rem 12rem 0 12rem;
+  }
+}
+
+/* LOGIN PAGE ------------------------------------------------------------------ */
+
+body {
+  background-color: rgb(95, 141, 78);
+  font-family: Arial, sans-serif;
+  color: rgb(255, 249, 236);
+  text-align: center;
+}
+
+h1 {
+  margin-top: 3rem;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.login-form {
+  background-color: rgb(255, 249, 236);
+  width: 30%;
+  margin: 0 auto;
+  padding: 2rem;
+  border-radius: 15px;
+  border: 2px solid rgb(169, 196, 127);
+}
+
+label {
+  font-size: 1.2rem;
+  display: block;
+  margin-bottom: .5rem;
+}
+
+input[type="text"],
+input[type="password"] {
+  font-size: 1.2rem;
+  padding: .5rem;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 1rem;
+  max-width: 300px;
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus {
+  outline: none;
+}
+
+
+input[type="submit"] {
+  background-color: rgb(169, 196, 127);
+  color: rgb(255, 249, 236);
+  font-size: 1.2rem;
+  padding: .5rem 1rem;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: rgb(95, 141, 78);
+}
+
+p {
+  font-size: 1.2rem;
+  margin-top: 2rem;
+}
+
+a img {
+  width: 10rem;
+  margin-top: 1rem;
+}

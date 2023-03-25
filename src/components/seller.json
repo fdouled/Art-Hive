@@ -1,0 +1,107 @@
+[
+    {
+      "seller": "Aaron Lee",
+      "names":  "Small Worlds, Stairway at Auvers, Dahlias",
+      "image": "img/seller/Aaron Lee.jpg",
+      "location": "Covington, Washington",
+      "works": 4
+    },
+    {
+      "seller": "Angel Kaur",
+      "names":  "The Harbinger of Autumn, The Firmament Above the Temple, Vase with Three Sunflowers, Asiatic elephant",
+      "image": "img/seller/Angel Kaur.jpg",
+      "location": "Seattle, Washington",
+      "works": 4
+    },
+    {
+      "seller": "Amira Patel",
+      "names":  "Pink Botanical, Bust of Faith, Reclining Naiad, Almond blossom",
+      "image": "img/seller/Amira Patel.jpg",
+      "location":"Spokane, Washington",
+      "works": 4
+    },
+    {
+      "seller": "Eva Jackson",
+      "names":  "Starry Night, William Archer Amherstr, Saint Alena, Bust of Patroclus",
+      "image": "img/seller/Eva Jackson.jpg",
+      "location": "Seattle, Washington",
+      "works": 4
+    },
+    {
+      "seller": "Jackie Perre",
+      "names":  "Flight, Cockatoo, Tennis, The Water Fan, Birds and Flowers, Emperor Gaius",
+      "image": "img/seller/Jackie Perre.jpg",
+      "location": "Covington, Washington",
+      "works": 5
+    },
+    {
+      "seller": "Penelope Garcia",
+      "names":  "Morning in a Pine, Still Life with Apples and Pitcher, Jalais Hill Pontoise, Flowers, Rich Port",
+      "image": "img/seller/Penelope Garcia.jpg",
+      "location": "Covington, Washington",
+      "works": 5
+    },
+    {
+      "seller": "Soojin Choi",
+      "names":  "Angel Tears, Medusa, Nike, Cast Iron Porch Railing",
+      "image": "img/seller/Soojin Choi.jpg",
+      "location": "Seattle, Washington",
+      "works": 4
+    },
+    {
+      "seller": "Matthew Rodrigo",
+      "names":  "Forbidden, Woozy, Ocean, The Salute",
+      "image": "img/seller/Matthew Rodrigo.jpg",
+      "location": "Spokane, Washington",
+      "works": 4
+    },
+    {
+      "seller": "Stephanie Antonio",
+      "names":  "Rest, Child in Rocker, The Seasons, Cattle and Sheep",
+      "image": "img/seller/Stephanie Antonio.jpg",
+      "location": "Brooklyn, New York",
+      "works": 4
+    },
+    {
+      "seller": "Emma Fink",
+      "names":  "Kristus, Cyprus, Deer in Forest, Athena Parthenos",
+      "image": "img/seller/Emma Fink.jpg",
+      "location": "Brooklyn, New York",
+      "works": 4
+    },
+    {
+      "seller": "Eva Jackson",
+      "names":  "Starry Night, William Archer Amherstr, Saint Alena, Bust of Patroclus",
+      "image": "img/seller/Eva Jackson.jpg",
+      "location": "San Jose, California",
+      "works": 4
+    },
+    {
+      "seller": "Mariam Abara",
+      "names":  "Pine and Eagle, The Veteran in a New Field, Girl Carrying a Basket, Sailing off Gloucester",
+      "image": "img/seller/Mariam Abara.jpg",
+      "location": "San Jose, California",
+      "works": 4
+    },
+    {
+      "seller": "Diahann Baker",
+      "names":  "Fruit pattern, Pauw met kippen, The Fairy Queen, Zig-Zag, Diana",
+      "image": "img/seller/Diahann Baker.jpg",
+      "location": "Brooklyn, New York",
+      "works": 5
+    },
+    {
+      "seller": "Angela Davis",
+      "names":  "Still Life with Jug, The Man of Letters, Avebury, Zebra",
+      "image": "img/seller/Angela Davis.jpg",
+      "location": "Spokane, Washington",
+      "works": 4
+    },
+    {
+      "seller": "Tiana Carter",
+      "names":  "Bouquet of Flowers, La Rochelle, Fishing Boats, Boomrijk, Antoninus Pius",
+      "image": "img/seller/Tiana Carter.jpg",
+      "location": "San Jose, California",
+      "works": 5
+    }
+    ]

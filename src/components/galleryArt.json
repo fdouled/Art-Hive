@@ -1,0 +1,499 @@
+[
+    {
+      "title": "Small Worlds",
+      "medium": "Paint",
+      "artwork": "img/Small Worlds.jpg",
+      "seller": "Aaron Lee",
+      "image": "img/seller/Aaron Lee.jpg",
+      "location": "Covington, Washington",
+      "liked": "yes"
+    },
+    {
+      "title": "Dahlias",
+      "medium": "Print",
+      "artwork": "img/Dahlias.jpg",
+      "seller": "Aaron Lee",
+      "image": "img/seller/Aaron Lee.jpg",
+      "location": "Covington, Washington"
+    },
+    {
+      "title": "Butterflies",
+      "medium": "Print",
+      "artwork": "img/Butterflies.jpg",
+      "seller": "Aaron Lee",
+      "image": "img/seller/Aaron Lee.jpg",
+      "location": "Covington, Washington"
+    },
+    {
+      "title": "Stairway at Auvers",
+      "medium": "Paint",
+      "artwork": "img/Stairway at Auvers.jpg",
+      "seller": "Aaron Lee",
+      "image": "img/seller/Aaron Lee.jpg",
+      "location": "Covington, Washington"
+    },
+    {
+      "title": "The Harbinger of Autumn",
+      "medium": "Paint",
+      "artwork": "img/The Harbinger of Autumn.jpg",
+      "seller": "Angel Kaur",
+      "image": "img/seller/Angel Kaur.jpg",
+      "location": "Seattle, Washington"
+    },
+    {
+      "title": "Asiatic elephant",
+      "medium": "Print",
+      "artwork": "img/Asiatic elephant.jpg",
+      "seller": "Angel Kaur",
+      "image": "img/seller/Angel Kaur.jpg",
+      "location": "Seattle, Washington"
+    },
+    {
+      "title": "The Firmament Above the Temple",
+      "medium": "Paint",
+      "artwork": "img/The Firmament Above the Temple.jpg",
+      "seller": "Angel Kaur",
+      "image": "img/seller/Angel Kaur.jpg",
+      "location": "Seattle, Washington"
+    },
+    {
+      "title": "Vase with Three Sunflowers",
+      "medium": "Paint",
+      "artwork": "img/Vase with Three Sunflowers.jpg",
+      "seller": "Angel Kaur",
+      "image": "img/seller/Angel Kaur.jpg",
+      "location": "Seattle, Washington"
+    },
+    {
+      "title": "Starry Night",
+      "medium": "Paint",
+      "artwork": "img/Starry Night.jpg",
+      "seller": "Eva Jackson",
+      "image": "img/seller/Eva Jackson.jpg",
+      "location": "San Jose, California"
+    },
+    {
+      "title": "Cygne sauvage",
+      "medium": "Print",
+      "artwork": "img/Cygne sauvage.jpg",
+      "seller": "Eva Jackson",
+      "image": "img/seller/Eva Jackson.jpg",
+      "location": "San Jose, California"
+    },
+    {
+      "title": "Pink Botanical",
+      "medium": "Chromolithography",
+      "artwork": "img/Pink Botanical.jpg",
+      "seller": "Amira Patel",
+      "image": "img/seller/Amira Patel.jpg",
+      "location": "Spokane, Washington"
+    },
+    {
+        "title": "Bust of Faith",
+        "medium": "Sculpture",
+        "artwork": "img/Bust of Faith.jpg",
+        "seller": "Amira Patel",
+        "image": "img/seller/Amira Patel.jpg",
+        "location": "Spokane, Washington"
+      },
+      {
+        "title": "Reclining Naiad",
+        "medium": "Sculpture",
+        "artwork": "img/Reclining Naiad.jpg",
+        "seller": "Amira Patel",
+        "image": "img/seller/Amira Patel.jpg",
+        "location": "Spokane, Washington"
+      },
+      {
+        "title": "Almond blossom",
+        "medium": "Painting",
+        "artwork": "img/Almond blossom.jpg",
+        "seller": "Amira Patel",
+        "image": "img/seller/Amira Patel.jpg",
+        "location": "Spokane, Washington"
+      },
+      {
+        "title": "Tennis",
+        "medium": "Print",
+        "artwork": "img/Tennis at Hertingfordbury.jpg",
+        "seller": "Jackie Perre",
+        "image": "img/seller/Jackie Perre.jpg",
+        "location": "Covington, Washington"
+      },
+      {
+        "title": "Emperor Gaius",
+        "medium": "Sculpture",
+        "artwork": "img/Emperor Gaius.jpg",
+        "seller": "Jackie Perre",
+        "image": "img/seller/Jackie Perre.jpg",
+        "location": "Covington, Washington"
+      },
+      {
+        "title": "Birds and Flowers",
+        "medium": "Print",
+        "artwork": "img/Birds and Flowers.jpg",
+        "seller": "Jackie Perre",
+        "image": "img/seller/Jackie Perre.jpg",
+        "location": "Covington, Washington"
+      },
+      {
+        "title": "Flight",
+        "medium": "Print",
+        "artwork": "img/Flight.jpg",
+        "seller": "Jackie Perre",
+        "image": "img/seller/Jackie Perre.jpg",
+        "location": "Covington, Washington"
+      },
+      {
+        "title": "Cockatoo",
+        "medium": "Print",
+        "artwork": "img/Head of a Cockatoo.jpg",
+        "seller": "Jackie Perre",
+        "image": "img/seller/Jackie Perre.jpg",
+        "location": "Covington, Washington"
+      },
+      {
+        "title": "Rest",
+        "medium": "Print",
+        "artwork": "img/Rest.jpg",
+        "seller": "Stephanie Antonio",
+        "image": "img/seller/Stephanie Antonio.jpg",
+        "location": "Brooklyn, New York"
+      },
+      {
+        "title": "Kristus",
+        "medium": "Mixed Media",
+        "artwork": "img/Kristus.jpg",
+        "seller": "Emma Fink",
+        "image": "img/seller/Emma Fink.jpg",
+        "location": "Brooklyn, New York"
+      },
+    {
+      "title": "Athena Parthenos",
+      "medium": "Sculpture",
+      "artwork": "img/Athena Parthenos.jpg",
+      "seller": "Emma Fink",
+      "image": "img/seller/Emma Fink.jpg",
+      "location": "Brooklyn, New York"
+    },
+    {
+      "title": "Deer in Forest",
+      "medium": "Mixed Media",
+     "artwork": "img/Deer in Forest.jpg",
+      "seller": "Emma Fink",
+      "image": "img/seller/Emma Fink.jpg",
+      "location": "Brooklyn, New York"
+    },
+    {
+      "title": "Child in Rocker",
+      "medium": "Print",
+      "artwork": "img/Child in Rocker.jpg",
+      "seller": "Stephanie Antonio",
+      "image": "img/seller/Stephanie Antonio.jpg",
+      "location": "Brooklyn, New York"
+    },
+    {
+      "title": "William Archer Amherstr",
+      "medium": "Chromolithography",
+      "artwork": "img/William Archer Amherst.jpg",
+      "seller": "Eva Jackson",
+      "image": "img/seller/Eva Jackson.jpg",
+      "location": "San Jose, California"
+    },
+    {
+      "title": "Bust of Patroclus",
+      "medium": "Sculpture",
+      "artwork": "img/Bust of Patroclus.jpg",
+      "seller": "Eva Jackson",
+      "image": "img/seller/Eva Jackson.jpg",
+      "location": "San Jose, California"
+    },
+    {
+        "title": "Saint Alena",
+        "medium": "Mixed Media",
+        "artwork": "img/Saint Alena.jpg",
+        "seller": "Eva Jackson",
+        "image": "img/seller/Eva Jackson.jpg",
+        "location": "San Jose, California"
+      },
+      {
+        "title": "Cyprus",
+        "medium": "Mixed Media",
+        "artwork": "img/Cyprus.jpg",
+        "seller": "Emma Fink",
+        "image": "img/seller/Emma Fink.jpg",
+        "location": "Brooklyn, New York"
+      },
+      {
+        "title": "Pine and Eagle",
+        "medium": "Chromolithography",
+        "artwork": "img/Pine and Eagle.jpg",
+        "seller": "Mariam Abara",
+        "image": "img/seller/Mariam Abara.jpg",
+        "location": "San Jose, California"
+      },
+      {
+        "title": "The Veteran in a New Field",
+        "medium": "Mixed Media",
+        "artwork": "img/The Veteran in a New Field.jpg",
+        "seller": "Mariam Abara",
+        "image": "img/seller/Mariam Abara.jpg",
+        "location": "San Jose, California"
+      },
+      {
+        "title": "Girl Carrying a Basket",
+        "medium": "Mixed Media",
+        "artwork": "img/Girl Carrying a Basket.jpg",
+        "seller": "Mariam Abara",
+        "image": "img/seller/Mariam Abara.jpg",
+        "location": "San Jose, California"
+      },
+      {
+        "title": "Sailing off Gloucester",
+        "medium": "Paint",
+        "artwork": "img/Sailing off Gloucester.jpg",
+        "seller": "Mariam Abara",
+        "image": "img/seller/Mariam Abara.jpg",
+        "location": "San Jose, California"
+      },
+      {
+        "title": "Forbidden",
+        "medium": "Water Color",
+        "artwork": "img/Forbidden.jpg",
+        "seller": "Matthew Rodrigo",
+        "image": "img/seller/Matthew Rodrigo.jpg",
+        "location": "Spokane, Washington"
+      },
+      {
+        "title": "The Salute",
+        "medium": "Paint",
+        "artwork": "img/The Salute.jpg",
+        "seller": "Matthew Rodrigo",
+        "image": "img/seller/Matthew Rodrigo.jpg",
+        "location": "Spokane, Washington"
+      },
+      {
+        "title": "Woozy",
+        "medium": "Water Color",
+        "artwork": "img/Woozy.jpg",
+        "seller": "Matthew Rodrigo",
+        "image": "img/seller/Matthew Rodrigo.jpg",
+        "location": "Spokane, Washington"
+      },
+      {
+        "title": "Ocean",
+        "medium": "Water Color",
+        "artwork": "img/Ocean.jpg",
+        "seller": "Matthew Rodrigo",
+        "image": "img/seller/Matthew Rodrigo.jpg",
+        "location": "Spokane, Washington"
+      },
+      {
+        "title": "The Water Fan",
+        "medium": "Acrylics",
+        "artwork": "img/The Water Fan.jpg",
+        "seller": "Jackie Perre",
+        "image": "img/seller/Jackie Perre.jpg",
+        "location": "Covington, Washington"
+      },
+      {
+        "title": "Morning in a Pine",
+        "medium": "Oil Paint",
+        "artwork": "img/Morning in a Pine.jpg",
+        "seller": "Penelope Garcia",
+        "image": "img/seller/Penelope Garcia.jpg",
+        "location": "Covington, Washington"
+      },
+      {
+        "title": "Still Life with Apples and Pitcher",
+        "medium": "Oil Paint",
+        "artwork": "img/Still Life with Apples and Pitcher.jpg",
+        "seller": "Penelope Garcia",
+        "image": "img/seller/Penelope Garcia.jpg",
+        "location": "Covington, Washington"
+      },
+      {
+        "title": "Jalais Hill Pontoise",
+        "medium": "Oil Paint",
+        "artwork": "img/Jalais Hill Pontoise.jpg",
+        "seller": "Penelope Garcia",
+        "image": "img/seller/Penelope Garcia.jpg",
+        "location": "Covington, Washington"
+      },
+      {
+        "title": "Flowers",
+        "medium": "Oil Paint",
+        "artwork": "img/Flowers.jpg",
+        "seller": "Penelope Garcia",
+        "image": "img/seller/Penelope Garcia.jpg",
+        "location": "Covington, Washington"
+      },
+      {
+        "title": "Rich Port",
+        "medium": "Paint",
+        "artwork": "img/Rich Port.jpg",
+        "seller": "Penelope Garcia",
+        "image": "img/seller/Penelope Garcia.jpg",
+        "location": "Covington, Washington"
+      },
+      {
+        "title": "Cast Iron Porch Railing",
+        "medium": "Mixed Media",
+        "artwork": "img/Cast Iron Porch Railing.jpg",
+        "seller": "Soojin Choi",
+        "image": "img/seller/Soojin Choi.jpg",
+        "location": "Seattle, Washington"
+      },
+      {
+        "title": "Angel Tears",
+        "medium": "Sculpture",
+        "artwork": "img/Angel Tears.jpg",
+        "seller": "Soojin Choi",
+        "image": "img/seller/Soojin Choi.jpg",
+        "location": "Seattle, Washington"
+      },
+      {
+        "title": "Medusa",
+        "medium": "Sculpture",
+        "artwork": "img/Medusa.jpg",
+        "seller": "Soojin Choi",
+        "image": "img/seller/Soojin Choi.jpg",
+        "location": "Seattle, Washington"
+      },
+      {
+        "title": "Nike",
+        "medium": "Sculpture",
+        "artwork": "img/Nike.jpg",
+        "seller": "Soojin Choi",
+        "image": "img/seller/Soojin Choi",
+        "location": "Seattle, Washington"
+      },
+      {
+        "title": "The Seasons",
+        "medium": "Mixed Media",
+        "artwork": "img/The Seasons.jpg",
+        "seller": "Stephanie Antonio",
+        "image": "img/seller/Stephanie Antonio.jpg",
+        "location": "Brooklyn, New York"
+      },
+      {
+        "title": "Cattle and Sheep",
+        "medium": "Mixed Media",
+        "artwork": "img/Cattle and Sheep.jpg",
+        "seller": "Stephanie Antonio",
+        "image": "img/seller/Stephanie Antonio.jpg",
+        "location": "Brooklyn, New York"
+      },
+      {
+        "title": "Zebra",
+        "medium": "Chromolithography",
+        "artwork": "img/Zebra.jpg",
+        "seller": "Angela Davis",
+        "image": "img/seller/Angela Davis.jpg",
+        "location": "Spokane, Washington"
+      },
+      {
+        "title": "Avebury",
+        "medium": "Water Color",
+        "artwork": "img/Avebury.jpg",
+        "seller": "Angela Davis",
+        "image": "img/seller/Angela Davis.jpg",
+        "location": "Spokane, Washington"
+      },
+      {
+        "title": "The Man of Letters",
+        "medium": "Chromolithography",
+        "artwork": "img/The Man of Letters.jpg",
+        "seller": "Angela Davis",
+        "image": "img/seller/Angela Davis.jpg",
+        "location": "Spokane, Washington"
+      },
+      {
+        "title": "Still Life with Jug",
+        "medium": "Water Color",
+        "artwork": "img/Still Life with Jug.jpg",
+        "seller": "Angela Davis",
+        "image": "img/seller/Angela Davis.jpg",
+        "location": "Spokane, Washington"
+      },
+      {
+        "title": "Zig-Zag",
+        "medium": "Chromolithography",
+        "artwork": "img/Zig-zag.jpg",
+        "seller": "Diahann Baker",
+        "image": "img/seller/Diahann Baker.jpg",
+        "location": "Brooklyn, New York"
+      },
+      {
+        "title": "The Fairy Queen",
+        "medium": "Chromolithography",
+        "artwork": "img/The Fairy Queen.jpg",
+        "seller": "Diahann Baker",
+        "image": "img/seller/Diahann Baker.jpg",
+        "location": "Brooklyn, New York"
+      },
+      {
+        "title": "Pauw met kippen",
+        "medium": "Chromolithography",
+        "artwork": "img/Pauw met kippen.jpg",
+        "seller": "Diahann Baker",
+        "image": "img/seller/Diahann Baker.jpg",
+        "location": "Brooklyn, New York"
+      },
+      {
+        "title": "Fruit pattern",
+        "medium": "Chromolithography",
+        "artwork": "img/Fruit pattern.jpg",
+        "seller": "Diahann Baker",
+        "image": "img/seller/Diahann Baker.jpg",
+        "location": "Brooklyn, New York"
+      },
+      {
+        "title": "Diana",
+        "medium": "Sculpture",
+        "artwork": "img/Diana.jpg",
+        "seller": "Diahann Baker",
+        "image": "img/seller/Diahann Baker.jpg",
+        "location": "Brooklyn, New York"
+      },
+      {
+        "title": "Boomrijk",
+        "medium": "Water Color",
+        "artwork": "img/Boomrijk.jpg",
+        "seller": "Tiana Carter",
+        "image": "img/seller/Tiana Carter.jpg",
+        "location": "San Jose, California"
+      },
+      {
+        "title": "Fishing Boats",
+        "medium": "Water Color",
+        "artwork": "img/Fishing Boats.jpg",
+        "seller": "Tiana Carter",
+        "image": "img/seller/Tiana Carter.jpg",
+        "location": "San Jose, California"
+      },
+      {
+        "title": "La Rochelle",
+        "medium": "Water Color",
+        "artwork": "img/La Rochelle.jpg",
+        "seller": "Tiana Carter",
+        "image": "img/seller/Tiana Carter.jpg",
+        "location": "San Jose, California"
+      },
+      {
+        "title": "Bouquet of Flowers",
+        "medium": "Water Color",
+        "artwork": "img/Bouquet of Flowers.jpg",
+        "seller": "Tiana Carter",
+        "image": "img/seller/Tiana Carter.jpg",
+        "location": "San Jose, California"
+      },
+      {
+        "title": "Antoninus Pius",
+        "medium": "Sculpture",
+        "artwork": "img/Antoninus Pius.jpg",
+        "seller": "Tiana Carter",
+        "image": "img/seller/Tiana Carter.jpg",
+        "location": "San Jose, California"
+      }
+    ]

@@ -1,0 +1,72 @@
+
+<!DOCTYPE html>
+<!--
+ Name:
+ Date:
+
+ This is the HTML script for user search results based on their preferences based on artist, medium and price
+-->
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="author" content="Audrey Kim, Aina Engelbrekt, Fardowsa Douled, Sachin Dhami">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="The search page allows for users to filter and look for certain
+    pieces of art. You can filter art types, price, etc.">
+    <link rel="stylesheet" href="css/general.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&family=Unbounded:wght@500&display=swap" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="shortcut icon" type="x-icon" href="favicon.ico">
+    <title>SEARCH</title>
+  </head>
+  <body>
+    <header>
+      <div id="hamburger-menu"><a href="#"><i class="fa fa-bars" aria-label="menu"></i></a></div>
+      <h1>Gallery</h1>
+      <img id="nav-icon" src="favicon.ico" alt="Website Icon">
+    </header>
+    <nav>
+      <ul>
+        <li><a href="index.html">Gallery</a></li>
+        <li class="current-tab-light"><a href="art.html" class="current-page">Art</a></li>
+        <li><a href="sellers.html">Sellers</a></li>
+        <li><a href="profile.html">Profile</a></li>
+      </ul>
+    </nav>
+    <main class="main-filter">
+      <header class="filter">
+        <!-- <form action="/search" method="get">
+        <input type="text" name="search" placeholder="Search medium, artist, price range and location">
+        </form> -->
+        <!-- Control buttons -->
+        <h2 class="filter-title art">Search <span class="line-art">art </span>by <span class="line-art">medium</span>.</h2>
+        <section id="medium-container">
+          <button id="ShowAll" class="btn filter-btn" onClick={props.handleFilter}> Show All </button>
+          <button id="Paint" class="btn filter-btn" onClick={props.handleFilter}> Paint </button>
+          <button id="Mixed Media" class="btn filter-btn" onClick={props.handleFilter}> Mixed Media </button>
+          <button id="Chromolithography" class="btn filter-btn" onClick={props.handleFilter}> Chromolithography </button>
+          <button id="Sculpture" class="btn filter-btn" onClick={props.handleFilter}> Sculpture </button>
+          <button id="Acrylics" class="btn filter-btn" onClick={props.handleFilter}> Acrylics </button>
+          <button id="Water Color" class="btn filter-btn" onClick={props.handleFilter}> Water Color </button>
+        </section>
+      </header>
+      <!-- The filterable elements, based -->
+      <section id="filtered-art">
+      </section>
+    </main>
+    <footer>
+      <!-- Team Info -->
+      <h1 class="brand-font">Gallery</h1>
+      <section class="footer-desc">
+        <p>This webpage was created by Section AA Group 6 in INFO 340.</p>
+        <p>Team members include Aina Engelbrekt, Audrey Kim, Fardowsa Douled, Sachin Dhami.</p>
+        <p>&copy; 2023 Group 6</p>
+      </section>
+     </footer>
+   </body>
+</html>
+
+

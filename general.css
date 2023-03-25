@@ -1,0 +1,153 @@
+/* BASIC -------------------------------------------------------------------- */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(229, 217, 182); /*tan*/
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  color: rgb(26, 18, 11); /*dark dark brown*/
+}
+
+h1 {
+  font-family: 'Unbounded', cursive;
+  color: rgb(40, 84, 48); /*dark green*/
+}
+
+h2 {
+  color: rgb(95, 141, 78); /*green*/
+}
+
+.light {
+  color: rgb(229, 229, 203);
+}
+
+/* NAV BAR ------------------------------------------------------------------ */
+.nav {
+  border-radius: 10px;
+}
+
+nav {
+  margin: 7px;
+}
+
+ul.nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #285430;
+}
+
+li.nav {
+  float: left;
+}
+
+li.nav a {
+  display: block;
+  color: #E5D9B6;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li.nav a:hover {
+  background-color:rgb(95, 141, 78);
+}
+
+/* PROFILE CSS -------------------------------------------------------------- */
+.artwork {
+  width: 400px;
+  height: 300px;
+}
+
+/* ABOUT PAGE ------------------------------------------------------------------ */
+.box {
+  width: 500px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
+/* SEARCH BAR IN HTML PAGE ------------------------------------------------------ */
+input[type=text] {
+  width: 150px;
+  -webkit-transition: width 0.5s ease-in-out;
+  transition: width 0.5s ease-in-out;
+}
+
+/* When the input field gets focus, change its width to 80% */
+input[type=text]:focus {
+  width: 80%;
+}
+
+header {
+  margin: 0 20px;
+}
+/* SEARCH BUTTON FILTER ------------------------------------------------------ */
+
+.btn filter-btn
+
+
+
+
+
+/* GALLERY CSS -------------------------------------------------------------- */
+#gallery-card-container {
+  background-color: rgb(164, 190, 123);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 4rem 0 0 0;
+}
+
+img {
+  height: 200px;
+}
+
+.gallery-card {
+  background-color: rgb(95, 141, 78);
+  margin: .5rem;
+  padding: 0 0 0 0;
+  flex: 0 0 100px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: rgb(31, 66, 37);
+}
+
+section.gallery-card p {
+  color: white;
+  text-align: center;
+}
+
+/* PROFILE CSS -------------------------------------------------------------- */
+.artwork {
+  width: 400px;
+  height: 300px;
+}
+
+.profilepicture{
+  width: 400px;
+  height: 300px;
+}
+
+
+/* FOOTER CSS -------------------------------------------------------------- */
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 50px;
+  background-color: rgb(95, 141, 78);
+  color: rgb(40, 84, 48);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
